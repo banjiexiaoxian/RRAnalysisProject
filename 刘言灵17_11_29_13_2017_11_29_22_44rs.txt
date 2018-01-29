@@ -1,0 +1,10 @@
+segment0:cluster_no:3	isPassMiddleLine:True	cluster_location:{52: 'SlowReduce', 53: 'SlowPlus'}	
+segment1:cluster_no:3	isPassMiddleLine:True	cluster_location:{28: 'SlowReduce', 29: 'SlowPlus'}	
+segment2:cluster_no:3	isPassMiddleLine:True	cluster_location:{657: 'SlowPlus', 640: 'SlowReduce'}	
+segment3:cluster_no:3	isPassMiddleLine:True	cluster_location:{253: 'SlowReduce', 394: 'SlowPlus'}	
+segment4:cluster_no:3	isPassMiddleLine:True	cluster_location:{437: 'SlowReduce', 438: 'SlowPlus'}	
+segment5:cluster_no:3	isPassMiddleLine:True	cluster_location:{30: 'SlowReduce', 31: 'SlowPlus'}	
+segment6:cluster_no:3	isPassMiddleLine:True	cluster_location:{373: 'SlowReduce', 374: 'SlowPlus'}	
+segment7:cluster_no:3	isPassMiddleLine:True	cluster_location:{211: 'SlowPlus', 210: 'SlowReduce'}	
+segment8:cluster_no:3	isPassMiddleLine:True	cluster_location:{432: 'SlowPlus', 522: 'SlowReduce'}	
+segment9:cluster_no:3	isPassMiddleLine:True	cluster_location:{24: 'SlowReduce', 25: 'SlowPlus'}	
